@@ -1,4 +1,10 @@
 # Kendo MBTI
+
+
+https://kendo-world.org/ </br>
+https://kendo-world.pages.dev/
+
+
 ## Project Overview
 This repository has created to tell you what your MBTI type would be based on your usual kendo style. It’s made purely for fun, so don’t take it too seriously!
 
